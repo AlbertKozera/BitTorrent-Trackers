@@ -66,3 +66,10 @@ The project met the objectives and requirements related to how trackers work in 
    - Install dependencies: `npm install`
    - Start the application: `npm start`
 3. **Running the Database**: Configure and start PostgreSQL using Docker.
+
+![image](https://github.com/user-attachments/assets/cf840d42-2e1e-4a31-bc03-8b04f1a6bec7)
+
+![image](https://github.com/user-attachments/assets/4f99424b-5e8e-4f53-9854-7bf696838a69)
+
+
+
