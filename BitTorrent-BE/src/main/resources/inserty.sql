@@ -1,0 +1,31 @@
+insert into users values (1,'user1','disable');
+insert into users values (2,'user2','disable');
+insert into users values (3,'user3','disable');
+insert into users values (4,'user4','disable');
+insert into users values (5,'user5','disable');
+insert into users values (6,'user6','disable');
+insert into users values (7,'user7','disable');
+insert into users values (8,'user8','disable');
+insert into users values (9,'user9','disable');
+insert into users values (10,'user10','disable');
+insert into users values (11,'user11','disable');
+
+insert into tracker values (1,'tracker1','enable');
+insert into tracker values (2,'tracker2','enable');
+insert into tracker values (3,'tracker3','enable');
+
+insert into tracker_users_list  values (1000,'enable',1,1);
+insert into tracker_users_list  values (1001,'enable',1,2);
+insert into tracker_users_list  values (1002,'enable',1,3);
+insert into tracker_users_list  values (1003,'enable',1,4);
+insert into tracker_users_list  values (1004,'enable',1,5);
+insert into tracker_users_list  values (1005,'enable',2,6);
+insert into tracker_users_list  values (1006,'enable',2,7);
+insert into tracker_users_list  values (1007,'enable',2,8);
+insert into tracker_users_list  values (1008,'enable',2,9);
+insert into tracker_users_list  values (1009,'enable',2,10);
+insert into tracker_users_list  values (1010,'enable',3,11);
+insert into tracker_users_list  values (1011,'enable',3,1);
+insert into tracker_users_list  values (1012,'enable',3,2);
+insert into tracker_users_list  values (1013,'enable',3,3);
+insert into tracker_users_list  values (1014,'enable',3,4);
